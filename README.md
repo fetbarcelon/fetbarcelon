@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fetbarcelon
 - 👀 I’m interested in Video Games Programming.
-- 🌱 I’m currently learning Unity and Unreal.
+- 🌱 I’m currently Unity and Unreal.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
