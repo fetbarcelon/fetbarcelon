@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://github.com/fetbarcelon" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="24" width="24" src="./contain/github2.png"></a>
+  <a href="https://github.com/fetbarcelon" target="_blank"><img alt="GitHub" title="GitHub" height="24" width="24" src="./contain/github2.png"></a>
   <a href="https://www.linkedin.com/in/stephania-cortes/" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="24" width="24" src="./contain/linkedin2.png"></a>
   <a href="https://fetbarcelon.wixsite.com/stephania-cortes/" target="_blank"><img alt="Portfolio" title="Portfolio" height="24" width="24" src="./contain/Portfolio.png"></a>
   <a href="https://devpro.itch.io/" target="_blank"><img alt="ItchIO" title="Itch.IO" height="21" width="24" src="./contain/itchio2.png"></a>
