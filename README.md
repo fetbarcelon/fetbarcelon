@@ -1,5 +1,5 @@
 <p align="center"><h1>Hi, I'm Stephania! </h1>
-<h3>I am a new game programmer looking for a first experience or Internship opportunity in the gaming industry! I've always loved video games since I was a child and I am now fortunate to turn my passion into my career. Over the course of my education, I've learned a lot about programming and game engines. I've been able to create amazing games for academic and personal projects.
+<h3>I am a new game programmer looking for full time position in the gaming industry! I've always loved video games since I was a child and I am now fortunate to turn my passion into my career. Over the course of my education, I've learned a lot about programming and game engines. I've been able to create amazing games for academic and personal projects.
 I'm going to continue to learn and improve my skills as a programmer to make the best video games possible.</h3></p>
 <hr>
 
