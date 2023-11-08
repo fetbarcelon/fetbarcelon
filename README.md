@@ -1,5 +1,5 @@
 <p align="center"><h1>Hi, I'm Stephania! </h1>
-<h3>I am a new Unreal Engine Programmer looking for full time position in the gaming industry! </h3></p>
+<h3>I am an Unreal Engine Programmer looking for full time position in the gaming industry! </h3></p>
 <hr>
 
 <p align="center">
