@@ -1,5 +1,5 @@
 <p align="center"><h1>Hi, I'm Stephania! </h1>
-<h3>I am an Entry-level programmer with a background in game development looking for a full-time programming role to grow and contribute in a professional environment.! </h3></p>
+<h3>I🎮 Trilingual entry-level software and game developer with experience in C++, Unreal Engine, and 3D graphics. I create real-time applications, intuitive UIs, and immersive user experiences. Currently seeking a full-time programming role to grow, contribute, and build high-quality, creative tech solutions in a professional environment! </h3></p>
 <hr>
 
 <p align="center">
