@@ -1,6 +1,13 @@
-<p align="center"><h1>Hi, I'm Stephania! </h1>
-<h3>🎮 I am Trilingual entry-level software and game developer with experience in C++, Unreal Engine, and 3D graphics. I create real-time applications, intuitive UIs, and immersive user experiences. Currently seeking a full-time programming role to grow, contribute, and build high-quality, creative tech solutions in a professional environment! </h3></p>
+<p align="center"><h1>👋 Hi, I’m @fetbarcelon! </h1>
+<h3>🎮 👀 I’m interested in Games Development in C++, C#, Unreal, Unity, Godot
+- 🌱 I’m currently developing games in Unreal Engine (UE5) and  C#/Unity.
+- 📫 How to reach me LinkedIn https://www.linkedin.com/in/stephania-cortes/
+
+- Please ALSO look at github account fetbarcelon for MORE of my projects!
+
+</h3></p>
 <hr>
+
 
 <p align="center">
   <a href="https://github.com/fetbarcelon" target="_blank"><img alt="GitHub" title="GitHub" height="24" width="24" src="./contain/github2.png"></a>
