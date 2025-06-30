@@ -1,5 +1,6 @@
 <p align="center"><h1>👋 Hi, I’m @fetbarcelon! </h1>
-<h3>🎮 👀 I’m interested in Games Development in C++, C#, Unreal, Unity, Godot
+<h3>🎮 👀 I’m interested in Games Development in C++, C#, Unreal, Unity, Godot.</h3>
+  <h3>
 - 🌱 I’m currently developing games in Unreal Engine (UE5) and  C#/Unity.
 - 📫 How to reach me LinkedIn https://www.linkedin.com/in/stephania-cortes/
 
